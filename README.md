@@ -1,1 +1,1 @@
-# c--tic-tac-toe
+# cpp-tic-tac-toe
